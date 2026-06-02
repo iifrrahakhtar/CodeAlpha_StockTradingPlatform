@@ -39,4 +39,4 @@ The application's logic architecture is split cleanly into explicit decoupled st
 
 1. Clone this repository to your local system environment:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ApexPro-Trading-Terminal.git](https://github.com/YOUR_USERNAME/ApexPro-Trading-Terminal.git)
+   git clone [https://github.com/iifrrahakhtar/CodeAlpha_StockTradingPlatform.git](https://github.com/iifrrahakhtar/CodeAlpha_StockTradingPlatform.git)
