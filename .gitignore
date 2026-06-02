@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# IntelliJ IDEA specific files and directories
+.idea/
+*.iml
+out/
+gen/
+
+# Database files (Optional: add if you want your local test database to stay private)
+# trading_platform.db
